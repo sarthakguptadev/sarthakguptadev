@@ -9,7 +9,6 @@
 
 <a href="https://sarthakgupta.dev"><img src="https://img.shields.io/badge/sarthakgupta.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://x.com/sarthakguptadev"><img src="https://img.shields.io/badge/@sarthakguptadev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://linkedin.com/in/techxsarthak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:hi@sarthakgupta.dev"><img src="https://img.shields.io/badge/hi@sarthakgupta.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
