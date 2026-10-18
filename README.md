@@ -18,9 +18,14 @@
 
 ### 👋 Hey, I'm Sarthak
 
-Indie app builder from 🇮🇳 India. I build fast, design carefully, and ship products people actually love, from AI agents on your desktop to tools for your inbox. Currently building **[AppuBot](https://appubot.com)**.
+Indie app builder from 🇮🇳 India. I build fast, design carefully, and ship products people actually love, from AI agents on your desktop to apps on your lock screen. Things I'm building:
 
-- 🤖 **Building:** AI bots that use the apps on your computer for you, and answer on Telegram
+- 🤖 **[AppuBot](https://appubot.com):** AI bots that use the apps on your computer for you, and answer you on Telegram
+- 📬 **[FeedSheriff](https://feedsheriff.com):** cleans up Gmail, Outlook and Zoho inboxes, also from your AI agent
+- 📱 **[AppGrowthKit](https://appgrowthkit.com):** AI App Store and Google Play screenshots that convert
+- 💞 **[Doodles](https://doodlesapp.com):** a couples app for doodles, moods and little games, right on your partner's Home Screen
+- 🦁 **[Untamed](https://untamed-app.com):** a private sober tracker to quit drinking, with a lion in your corner
+
 - 🏆 **Wins:** MIT App Inventor Appathon (Swasthya) · Special Mention at NotJust Hackathon (Blaze)
 - 💡 **Beliefs:** Small teams move like gravity. Design is a moat. Momentum is everything.
 
