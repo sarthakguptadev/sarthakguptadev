@@ -1,6 +1,5 @@
 <div align="center">
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:f97316&height=210&section=header&text=Sarthak%20Gupta&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=App%20builder%20%C2%B7%20shipping%20software%20that%20delights&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Sarthak Gupta" /></a>
 
 <a href="https://sarthakgupta.dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=620&lines=I+build+fast+and+design+carefully.;AI+agents+that+use+your+computer+for+you.;Apps+on+iOS%2C+Android%2C+Mac%2C+Windows+%26+Linux.;Buy+the+domain+first." alt="Typing intro" />
