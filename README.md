@@ -25,7 +25,7 @@ Indie app builder from 🇮🇳 India. I build fast, design carefully, and ship 
 - 💞 **[Doodles](https://doodlesapp.com):** a couples app for doodles, moods and little games, right on your partner's Home Screen
 - 🦁 **[Untamed](https://untamed-app.com):** a private sober tracker to quit drinking, with a lion in your corner
 
-- 🏆 **Wins:** MIT App Inventor Appathon (Swasthya) · Special Mention at NotJust Hackathon (Blaze)
+- 🏆 **Wins:** Grant from Anthropic · Hackathon win from GitHub, Mux & Resend · MIT App Inventor Appathon (Swasthya) · Special Mention at NotJust Hackathon (Blaze)
 - 💡 **Beliefs:** Small teams move like gravity. Design is a moat. Momentum is everything.
 
 <div align="center">
