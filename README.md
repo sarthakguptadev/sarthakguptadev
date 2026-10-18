@@ -25,36 +25,7 @@ Indie app builder from 🇮🇳 India. I build fast, design carefully, and ship 
 - 🏆 **Wins:** MIT App Inventor Appathon (Swasthya) · Special Mention at NotJust Hackathon (Blaze)
 - 💡 **Beliefs:** Small teams move like gravity. Design is a moat. Momentum is everything.
 
-### 📌 Projects
-
 <div align="center">
-<a href="https://github.com/sarthakguptadev/appubot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakguptadev&repo=appubot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=a78bfa&border_radius=12" alt="appubot" /></a>
-<a href="https://github.com/sarthakguptadev/feedsheriff-mcp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakguptadev&repo=feedsheriff-mcp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=a78bfa&border_radius=12" alt="feedsheriff-mcp" /></a>
-<a href="https://github.com/sarthakguptadev/brandmyphone-oss"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakguptadev&repo=brandmyphone-oss&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=a78bfa&border_radius=12" alt="brandmyphone-oss" /></a>
-</div>
-
-### 🛠️ Tech I use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,vite,electron&perline=8" alt="Web & desktop" />
-<br/>
-<img src="https://skillicons.dev/icons?i=expo,kotlin,swift,androidstudio,threejs,python,firebase,cloudflare&perline=8" alt="Mobile, 3D & cloud" />
-<br/>
-<img src="https://skillicons.dev/icons?i=vercel,pnpm,git,figma&perline=8" alt="Tools" />
-
-</div>
-
-### 📊 GitHub stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarthakguptadev&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakguptadev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=c9d1d9&border_radius=12" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=sarthakguptadev&theme=tokyonight&hide_border=true&background=0d1117&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=a78bfa&dates=8b949e&border_radius=12" alt="Streak" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthakguptadev/sarthakguptadev/output/snake-dark.svg" />
@@ -62,5 +33,3 @@ Indie app builder from 🇮🇳 India. I build fast, design carefully, and ship 
 </picture>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:6d28d9,100:0f172a&height=110&section=footer" width="100%" alt="" />
