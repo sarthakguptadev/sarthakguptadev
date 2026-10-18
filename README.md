@@ -19,28 +19,13 @@
 
 ### 👋 Hey, I'm Sarthak
 
-Indie app builder from 🇮🇳 India. I build fast, design carefully, and ship products people actually love, from AI agents on your desktop to couples apps on your lock screen. Currently building **[AppuBot](https://appubot.com)** and **[AppGrowthKit](https://appgrowthkit.com)**.
+Indie app builder from 🇮🇳 India. I build fast, design carefully, and ship products people actually love, from AI agents on your desktop to tools for your inbox. Currently building **[AppuBot](https://appubot.com)**.
 
 - 🤖 **Building:** AI bots that use the apps on your computer for you, and answer on Telegram
-- 📈 **Also:** AI App Store & Google Play screenshots that convert
 - 🏆 **Wins:** MIT App Inventor Appathon (Swasthya) · Special Mention at NotJust Hackathon (Blaze)
 - 💡 **Beliefs:** Small teams move like gravity. Design is a moat. Momentum is everything.
 
-### 🚀 Things I've shipped
-
-| | Product | What it does |
-| :-: | :-- | :-- |
-| 🤖 | **[AppuBot](https://appubot.com)** | AI agents on your Mac/PC that use your apps for you and answer you on Telegram |
-| 📱 | **[AppGrowthKit](https://appgrowthkit.com)** | AI-made App Store & Google Play screenshots with device frames and one-click publishing |
-| 📬 | **[FeedSheriff](https://feedsheriff.com)** | Cleans Gmail, Outlook & Zoho inboxes, with an MCP server for AI agents |
-| 💞 | **[Doodles](https://doodlesapp.com)** | A couples app: doodles, moods and little games, right on your partner's Home Screen |
-| 📲 | **[BrandMyPhone](https://brandmyphone.tech)** | Sponsors buy a sticker spot on the back of my phone |
-| 🏁 | **[LaunchArena](https://launcharena.dev)** | A ranked leaderboard for product launches |
-| 🌍 | **[myearth.lol](https://myearth.lol)** | Buy a country on a 3D globe and fly your site's flag there |
-| 🚤 | **[Inkwake](https://inkwake.sarthakgupta.dev)** | A cel-shaded arcade boat racer that runs in the browser |
-| ⏳ | **[Stillti.me](https://stillti-me.pages.dev)** | A calm focus timer with a daily leaderboard |
-
-### 📌 Open source
+### 📌 Projects
 
 <div align="center">
 <a href="https://github.com/sarthakguptadev/appubot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakguptadev&repo=appubot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=a78bfa&border_radius=12" alt="appubot" /></a>
@@ -64,7 +49,7 @@ Indie app builder from 🇮🇳 India. I build fast, design carefully, and ship 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarthakguptadev&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarthakguptadev&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakguptadev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=c9d1d9&border_radius=12" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=sarthakguptadev&theme=tokyonight&hide_border=true&background=0d1117&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=a78bfa&dates=8b949e&border_radius=12" alt="Streak" />
